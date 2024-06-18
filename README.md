@@ -37,7 +37,8 @@ Forecasting Iran's tourism demand during 2017 and 2018
 | Muli-leyer Perceptron    | 0.037   |
 | Radial Basis Function    | 0.179   |
 | Neuro-fuzzy Time Series    | 2.814   |
-- Multi-layer perceptron has the best results. Therefore, the forecasted tourism demand for Iran is forecasted by multi-layer perceptron as follows:
+- Multi-layer perceptron has the best results. Therefore, the forecasted tourism demand for Iran is forecasted by multi-layer perceptron as follows: 
+
 | Year |  Forecasted Tourism Demand |
 |----------|----------|
 |2017   | 6583689   |
