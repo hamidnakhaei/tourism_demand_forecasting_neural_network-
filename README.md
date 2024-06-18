@@ -1,4 +1,4 @@
-# Tourism Demand Forecasting Multi-layer Perceptron Neural Network, Radial Basis Function Neural Network, and Neuro-fuzzy Time Series
+# Tourism Demand Forecasting Using Multi-layer Perceptron Neural Network, Radial Basis Function Neural Network, and Neuro-fuzzy Time Series
 
 ### Objective:
 Forecasting Iran's tourism demand during 2017 and 2018
